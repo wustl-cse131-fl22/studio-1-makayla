@@ -22,7 +22,7 @@ public class Average {
 		// TODO Auto-generated method stub
 
 	}
-
+ 
 }
 
 
